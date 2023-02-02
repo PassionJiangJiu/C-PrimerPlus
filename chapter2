@@ -1,7 +1,9 @@
-#include<iosteam>
-using namespace std;
+#include<iostream>
 
 int main()
 {
-    
+    using namespace std;
+
+    cout<<"zxc xfhy"<<endl;
+
 }
